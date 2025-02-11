@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  background-color: #21315e;
+  color: aliceblue;
+}
+
+
+body h1{
+  font-size:50px;
+  
+}
+
+.choice-button {
+  height: 120px;
+  width: 120px;
+  border: none;
+  margin: 10px;
+  background-color: #21315e;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.choice-image {
+  height: 100px;
+}
+
+.scorecard{
+  font-size: 20px;
+  margin-top: 4px;
+}
